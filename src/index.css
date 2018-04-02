@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.progress {
+	height: 8px;
+	margin-top: -7px;
+}
+
+.text-right {
+	float: right;
+}
+
+.list-group-item {
+	border: none;
+}
+
+.text-left-icon {
+	margin-left: -60px;
+}
+
+.text-margin {
+	margin-left: 45px;
+}
